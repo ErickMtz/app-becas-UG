@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Becas UG</string>
+    <string name="author">Universidad de Guanajuato</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">ACCESO</string>
+    <string name="btn_logout">SALIR</string>
+
+    <string name="welcome">Bienvenido</string>
+    <string name="img_login">Logo Becas</string>
+
+    <string name="settings">Ajustes</string>
+
+    <string name="about">Acerca de</string>
+        <string name="version">Version: 1.0.0</string>
+        <string name="copyright">Copyright \u00A9 2016.</string>
+        <string name="devs">DESARROLLADORES: Dev 1, Dev 2, Dev 3.</string>
+        <string name="colabs">En colaboración con la DSTI.</string>
+</resources>
